@@ -1,7 +1,7 @@
 # Docker druid container thats based on CentOS 6
 
 ## Setup Docker
-[Install Docker] [https://github.com/druid-io/docker-druid/blob/master/docker-install.md]
+[Install Docker] (https://github.com/druid-io/docker-druid/blob/master/docker-install.md)
 
 ## Build Druid Docker Image
 
